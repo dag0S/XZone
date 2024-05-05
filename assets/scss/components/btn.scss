@@ -5,4 +5,9 @@
 
   font-weight: 500;
   background: var(--btn-gradient);
+
+  &--big {
+    padding: 20px 40px;
+    font-size: 16px;
+  }
 }
