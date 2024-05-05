@@ -1,17 +1,15 @@
 // Abstracts
 @import "./abstracts/vars";
-@import "./abstracts/mixins";
 @import "./abstracts/animations";
 // Core
 @import "./core/reset";
 @import "./core/base";
 // Components
-// @import "./components/*";
+@import "./components/header.scss";
+@import "./components/nav.scss";
+@import "./components/btn.scss";
 // Layout
 // @import "./layout/*";
 // Sections
 // @import "./sections/*";
 
-body {
-  background: green;
-}
