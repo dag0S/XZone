@@ -1,0 +1,17 @@
+// Abstracts
+@import "./abstracts/vars";
+@import "./abstracts/mixins";
+@import "./abstracts/animations";
+// Core
+@import "./core/reset";
+@import "./core/base";
+// Components
+// @import "./components/*";
+// Layout
+// @import "./layout/*";
+// Sections
+// @import "./sections/*";
+
+body {
+  background: green;
+}
