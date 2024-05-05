@@ -5,11 +5,12 @@
 @import "./core/reset";
 @import "./core/base";
 // Components
-@import "./components/header.scss";
 @import "./components/nav.scss";
 @import "./components/btn.scss";
+@import "./components/line.scss";
 // Layout
 // @import "./layout/*";
-// Sections
-// @import "./sections/*";
+//Sections
+@import "./sections/header.scss";
+@import "./sections/footer.scss";
 
